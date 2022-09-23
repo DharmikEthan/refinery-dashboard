@@ -1,0 +1,3014 @@
+[
+        {
+            "Table Name": "List of Holdings - Cash Positions",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Amount": "743773.72",
+                    "Account Name": "USD Current Account",
+                    "Account No.": "6507834.003",
+                    "Market Value in USD": "743773.72",
+                    "Proportion": "12.15%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "EUR",
+                    "Amount": "1939730.03",
+                    "Account Name": "EUR Current Account",
+                    "Account No.": "6507834.005",
+                    "Market Value in USD": "1926152.11",
+                    "Proportion": "31.47%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "GBP",
+                    "Amount": "-0.17",
+                    "Account Name": "GBP Current Account",
+                    "Account No.": "6507834.002",
+                    "Market Value in USD": "-0.20",
+                    "Proportion": "-0.00%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "SGD",
+                    "Amount": "3342.50",
+                    "Account Name": "SGD Current Account",
+                    "Account No.": "6507834.001",
+                    "Market Value in USD": "2388.44",
+                    "Proportion": "0.04%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Loans",
+            "Data": [
+                {
+                    "Ccy": "USD",
+                    "Amount": "-600000.00",
+                    "Description": "Fixed Short Term Loan USD 1.45% p.a. payable at maturity 18.11.2021-18.11.2022 838598",
+                    "Loan Start Date": "2021-11-18",
+                    "Loan Maturity Date": "2022-11-18",
+                    "Interest at Maturity in USD": "8820.83",
+                    "Interest at Maturity in Pos CCY": "8820.83",
+                    "P + I at Maturity in USD": "608820.83",
+                    "P + I at Maturity in Pos CCY": "608820.83",
+                    "Market Value in USD": "-606863.33",
+                    "Accrued interest": "-6863.33",
+                    "Proportion": "-9.92%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Equities and Similar Investments",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity": "2000.0000",
+                    "Description": "Meta Platforms Inc Registered Shs -A- Blocked: 0.00 META.OQ",
+                    "ISIN No": "US30303M1027",
+                    "Sec No": "14917609",
+                    "Purchase Price": "283.5096",
+                    "Market Price": "159.1700",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "318340.00",
+                    "Unrealized G/L in USD": "-248679.23",
+                    "Unrealized G/L in Pos CCY ": "-248679.23",
+                    "Unrealized G/L (%) (Ref. CCY)": "-43.86",
+                    "Proportion": "5.20%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "3756.0000",
+                    "Description": "SYNCHRONY FINANCIAL U.S. SECURITYRES CN Blocked: 0.00 SYF.N",
+                    "ISIN No": "US87165B1035",
+                    "Sec No": "23967617",
+                    "Purchase Price": "42.4411",
+                    "Market Price": "32.7300",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "122933.88",
+                    "Unrealized G/L in USD": "-36474.89",
+                    "Unrealized G/L in Pos CCY ": "-36474.89",
+                    "Unrealized G/L (%) (Ref. CCY)": "-22.88",
+                    "Proportion": "2.01%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "2796.0000",
+                    "Description": "NVIDIA CORP U.S. SECURITY NVDA.OQ",
+                    "ISIN No": "US67066G1040",
+                    "Sec No": "994529",
+                    "Purchase Price": "256.2682",
+                    "Market Price": "158.0100",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "441795.96",
+                    "Unrealized G/L in USD": "-274729.92",
+                    "Unrealized G/L in Pos CCY ": "-274729.92",
+                    "Unrealized G/L (%) (Ref. CCY)": "-38.34",
+                    "Proportion": "7.22%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "1168.0000",
+                    "Description": "QUALCOMM INC U.S. SECURITY CUST DB FFT Blocked: 0.00 QCOM.OQ",
+                    "ISIN No": "US7475251036",
+                    "Sec No": "964930",
+                    "Purchase Price": "150.7288",
+                    "Market Price": "137.0800",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "160109.44",
+                    "Unrealized G/L in USD": "-15941.79",
+                    "Unrealized G/L in Pos CCY ": "-15941.79",
+                    "Unrealized G/L (%) (Ref. CCY)": "-9.06",
+                    "Proportion": "2.62%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "2566.0000",
+                    "Description": "ADVANCED MICRO DEVICES INC U.S. SECURITY Blocked: 0.00 AMD.OQ",
+                    "ISIN No": "US0079031078",
+                    "Sec No": "903491",
+                    "Purchase Price": "121.8665",
+                    "Market Price": "88.4900",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "227065.34",
+                    "Unrealized G/L in USD": "-85644.08",
+                    "Unrealized G/L in Pos CCY ": "-85644.08",
+                    "Unrealized G/L (%) (Ref. CCY)": "-27.39",
+                    "Proportion": "3.71%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "791.0000",
+                    "Description": "BOEING COMPANY U.S. SECURITY Blocked: 0.00 BA.N",
+                    "ISIN No": "US0970231058",
+                    "Sec No": "913253",
+                    "Purchase Price": "193.6197",
+                    "Market Price": "165.4200",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "130847.22",
+                    "Unrealized G/L in USD": "-22305.95",
+                    "Unrealized G/L in Pos CCY ": "-22305.95",
+                    "Unrealized G/L (%) (Ref. CCY)": "-14.56",
+                    "Proportion": "2.14%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "348.0000",
+                    "Description": "INTUITIVE SURGICAL INC U.S. SECURITY ISRG.OQ",
+                    "ISIN No": "US46120E6023",
+                    "Sec No": "1631646",
+                    "Purchase Price": "308.0875",
+                    "Market Price": "208.9000",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "72697.20",
+                    "Unrealized G/L in USD": "-34517.26",
+                    "Unrealized G/L in Pos CCY ": "-34517.26",
+                    "Unrealized G/L (%) (Ref. CCY)": "-32.19",
+                    "Proportion": "1.19%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Equities and Similar Investments",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity": "660.0000",
+                    "Description": "NIKE INC SHS B U.S. SECURITY Blocked: 0.00 NKE.N",
+                    "ISIN No": "US6541061031",
+                    "Sec No": "957150",
+                    "Purchase Price": "150.6205",
+                    "Market Price": "107.8800",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "71200.80",
+                    "Unrealized G/L in USD": "-28208.72",
+                    "Unrealized G/L in Pos CCY ": "-28208.72",
+                    "Unrealized G/L (%) (Ref. CCY)": "-28.38",
+                    "Proportion": "1.16%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "1295.0000",
+                    "Description": "JPMORGAN CHASE N CO FORMERLY CHASE MANHATTAN CORPNU.S. SECURITY Blocked: 0.00 JPM.N",
+                    "ISIN No": "US46625H1005",
+                    "Sec No": "1161460",
+                    "Purchase Price": "145.3771",
+                    "Market Price": "114.3900",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "148135.05",
+                    "Unrealized G/L in USD": "-40128.26",
+                    "Unrealized G/L in Pos CCY ": "-40128.26",
+                    "Unrealized G/L (%) (Ref. CCY)": "-21.31",
+                    "Proportion": "2.42%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "5548.0000",
+                    "Description": "PAYPAL HOLDINGS INC U.S. SECURITY PYPL.OQ",
+                    "ISIN No": "US70450Y1038",
+                    "Sec No": "28467085",
+                    "Purchase Price": "234.9369",
+                    "Market Price": "92.6600",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "514077.68",
+                    "Unrealized G/L in USD": "-789352.06",
+                    "Unrealized G/L in Pos CCY ": "-789352.06",
+                    "Unrealized G/L (%) (Ref. CCY)": "-60.56",
+                    "Proportion": "8.40%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "1416.0000",
+                    "Description": "TESLA INC Blocked: 1416.00 TSLA.OQ",
+                    "ISIN No": "US88160R1014",
+                    "Sec No": "11448018",
+                    "Purchase Price": "278.7820",
+                    "Market Price": "284.8200",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "403305.12",
+                    "Unrealized G/L in USD": "8549.74",
+                    "Unrealized G/L in Pos CCY ": "8549.74",
+                    "Unrealized G/L (%) (Ref. CCY)": "2.17",
+                    "Proportion": "6.59%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "1386.0000",
+                    "Description": "DocuSign Inc Registered Shs DOCU.OQ",
+                    "ISIN No": "US2561631068",
+                    "Sec No": "41193881",
+                    "Purchase Price": "216.7940",
+                    "Market Price": "58.0000",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "80388.00",
+                    "Unrealized G/L in USD": "-220088.42",
+                    "Unrealized G/L in Pos CCY ": "-220088.42",
+                    "Unrealized G/L (%) (Ref. CCY)": "-73.25",
+                    "Proportion": "1.31%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "1937.0000",
+                    "Description": "CrowdStrike Holdings Inc Registered Shs -A- Blocked: 0.00 CRWD.OQ",
+                    "ISIN No": "US22788C1053",
+                    "Sec No": "47976949",
+                    "Purchase Price": "202.5853",
+                    "Market Price": "192.0500",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "372000.85",
+                    "Unrealized G/L in USD": "-20406.96",
+                    "Unrealized G/L in Pos CCY ": "-20406.96",
+                    "Unrealized G/L (%) (Ref. CCY)": "-5.20",
+                    "Proportion": "6.08%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "54025.0000",
+                    "Description": "Northwest Biotherapeutics Inc Registered Shs NWBO.PK",
+                    "ISIN No": "US66737P6007",
+                    "Sec No": "19669706",
+                    "Purchase Price": "1.1317",
+                    "Market Price": "0.7095",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "38330.74",
+                    "Unrealized G/L in USD": "-22807.73",
+                    "Unrealized G/L in Pos CCY ": "-22807.73",
+                    "Unrealized G/L (%) (Ref. CCY)": "-37.31",
+                    "Proportion": "0.63%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Equities and Similar Investments",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity": "2484.0000",
+                    "Description": "Roblox Corporation Registered Shs -A- Blocked: 0.00 RBLX.N",
+                    "ISIN No": "US7710491033",
+                    "Sec No": "58460132",
+                    "Purchase Price": "84.9295",
+                    "Market Price": "39.2200",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "97422.48",
+                    "Unrealized G/L in USD": "-113542.28",
+                    "Unrealized G/L in Pos CCY ": "-113542.28",
+                    "Unrealized G/L (%) (Ref. CCY)": "-53.82",
+                    "Proportion": "1.59%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Equities and Similar Investments",
+            "Data": [
+                {
+                    "CCY": "",
+                    "Quantity": "",
+                    "Description": "",
+                    "ISIN No": "CA82509L1076",
+                    "Sec No": "27926256",
+                    "Purchase Price": "121.2012",
+                    "Market Price": "31.9400",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "419212.50",
+                    "Unrealized G/L in USD": "-1171552.94",
+                    "Unrealized G/L in Pos CCY ": "-1171552.94",
+                    "Unrealized G/L (%) (Ref. CCY)": "-73.65",
+                    "Proportion": "6.85%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Equities and Similar Investments",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity": "52414.0000",
+                    "Description": "  Nio Inc Shs -A- Sponsored American Depositary Share Repr 1 Sh -A (Blocked: 0.00) (NIO.N)",
+                    "ISIN No": "US62914V1061",
+                    "Sec No": "43286578",
+                    "Purchase Price": "36.3734",
+                    "Market Price": "19.8100",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "1038321.34",
+                    "Unrealized G/L in USD": "-868154.09",
+                    "Unrealized G/L in Pos CCY ": "-868154.09",
+                    "Unrealized G/L (%) (Ref. CCY)": "-45.54",
+                    "Proportion": "16.97%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "6922.0000",
+                    "Description": "  DiDi Global Inc Shs -A- Sponsored American Depositary Share Repr 1/4 Sh -A- (DIDIY.PK)",
+                    "ISIN No": "US23292E1082",
+                    "Sec No": "112377923",
+                    "Purchase Price": "4.0800",
+                    "Market Price": "2.5900",
+                    "Price Date": "2022-08-29",
+                    "Market Value in USD": "17927.98",
+                    "Unrealized G/L in USD": "-10313.78",
+                    "Unrealized G/L in Pos CCY ": "-10313.78",
+                    "Unrealized G/L (%) (Ref. CCY)": "-36.52",
+                    "Proportion": "0.29%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Options Convertibles OTC Derivatives and Others",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "540.0000 Accu SHOP.N Shopify SVtg-A ST: USD",
+                    "ISIN No. Sec. No.": "NULL",
+                    "Purchase Price Value Date Maturity Date": "0.0000",
+                    "Market Price Price Date Next Fixing Date": "-94.2700",
+                    "Market Value in USD Accrued Interest": "-50,905.80",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-50,905.80",
+                    "Proportion": "-0.83%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "NULL",
+                    "Quantity Description": "126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D070921026E.A",
+                    "Purchase Price Value Date Maturity Date": "06.09.2022",
+                    "Market Price Price Date Next Fixing Date": "26.08.2022",
+                    "Market Value in USD Accrued Interest": "0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-50,905.80 0.00",
+                    "Proportion": "NULL",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "294.0000 Accu ISRG.OQ INTUITIVE SURGICAL INC (U.S. SECURITY) ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D011121023E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 31.10.2022",
+                    "Market Price Price Date Next Fixing Date": "-96.1439 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-28,266.30 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-28,266.30 -28,266.30 0.00",
+                    "Proportion": "-0.46%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "708.0000 Accu BA.N BOEING COMPANY (U.S. SECURITY) ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D161121012E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 15.11.2022",
+                    "Market Price Price Date Next Fixing Date": "-29.0425 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-20,562.06 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-20,562.06 -20,562.06 0.00",
+                    "Proportion": "-0.34%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "1,770.0000 Accu CRWD.OQ CrowdStrike Holdings Inc Registered Shs -A- ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D161121033E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 15.11.2022",
+                    "Market Price Price Date Next Fixing Date": "-11.4997 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-20,354.50 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-20,354.50 -20,354.50 0.00",
+                    "Proportion": "-0.33%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "590.0000 Accu META.OQ Meta Platforms Inc Registered Shs -A- ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D16112101KH.A",
+                    "Purchase Price Value Date Maturity Date": "0.0000 15.11.2022",
+                    "Market Price Price Date Next Fixing Date": "-125.2672 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-73,907.67 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-73,907.67 -73,907.67 0.00",
+                    "Proportion": "-1.21%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Options Convertibles OTC Derivatives and Others",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "1,180.0000 Accu QCOM.OQ QUALCOMM INC (U.S.",
+                    "ISIN No. Sec. No.": "NULL",
+                    "Purchase Price Value Date Maturity Date": "0.0000",
+                    "Market Price Price Date Next Fixing Date": "-13.8262",
+                    "Market Value in USD Accrued Interest": "-16,314.92",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-16,314.92",
+                    "Proportion": "-0.27%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "NULL",
+                    "Quantity Description": "SECURITY) (CUST DB FFT) ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D171121020E",
+                    "Purchase Price Value Date Maturity Date": "16.11.2022",
+                    "Market Price Price Date Next Fixing Date": "26.08.2022",
+                    "Market Value in USD Accrued Interest": "0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-16,314.92 0.00",
+                    "Proportion": "NULL",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "1,416.0000 Accu AMD.OQ ADVANCED MICRO DEVICES INC (U.S. SECURITY) ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D171121021E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 16.11.2022",
+                    "Market Price Price Date Next Fixing Date": "-30.4261 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-43,083.30 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-43,083.30 -43,083.30 0.00",
+                    "Proportion": "-0.70%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "936.0000 Accu SE.N Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.2022, CCY: USD",
+                    "ISIN No. Sec. No.": "D091221011E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 08.12.2022",
+                    "Market Price Price Date Next Fixing Date": "-135.5354 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-126,861.16 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-126,861.16 -126,861.16 0.00",
+                    "Proportion": "-2.07%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "1,940.0000 Accu TSLA.OQ TESLA INC ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.01.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "D03012201KH",
+                    "Purchase Price Value Date Maturity Date": "0.0000 03.01.2023",
+                    "Market Price Price Date Next Fixing Date": "-29.2234 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-56,693.36 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-56,693.36 -56,693.36 0.00",
+                    "Proportion": "-0.93%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "-16.0000 short Put NVIDIA (NVDA.US) 20-JAN-2023 American USD 125",
+                    "ISIN No. Sec. No.": "90790746",
+                    "Purchase Price Value Date Maturity Date": "5.6000 20.01.2023",
+                    "Market Price Price Date Next Fixing Date": "7.0000 29.08.2022",
+                    "Market Value in USD Accrued Interest": "-11,200.00 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-2,240.00 -2,240.00 25.00",
+                    "Proportion": "-0.18%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "-1,038.0000 Decu QCOM.OQ QUALCOMM INC (U.S. SECURITY) (CUST DB FFT) ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P270422011E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 26.04.2023",
+                    "Market Price Price Date Next Fixing Date": "-1.2476 26.08.2022",
+                    "Market Value in USD Accrued Interest": "1,294.97 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "1,294.97 1,294.97 0,00",
+                    "Proportion": "0.02%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Options Convertibles OTC Derivatives and Others",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity": "-2,196.0000",
+                    "Description": "Decu CRWD.OQ CrowdStrike Holdings Inc Registered Shs -A- ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P110522031E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 10.05.2023",
+                    "Market Price Price Date Next Fixing Date": "11.9849 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-26,318.87 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-26,318.87 -26,318.87 0.00",
+                    "Proportion": "-0.43%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-1,281.0000",
+                    "Description": "Decu BA.N BOEING COMPANY (U.S. SECURITY) ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P130522022E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 12.05.2023",
+                    "Market Price Price Date Next Fixing Date": "20.6010 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-26,389.85 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-26,389.85 -26,389.85 0.00",
+                    "Proportion": "-0.43%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-1,281.0000",
+                    "Description": "Decu JPM.N JPMORGAN CHASE N CO (FORMERLY CHASE MANHATTAN CORPN)(U.S SECURITY) ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P130522025E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 12.05.2023",
+                    "Market Price Price Date Next Fixing Date": "-1.9835 25.08.2022",
+                    "Market Value in USD Accrued Interest": "2,540.81 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "2,540.81 2,540.81 0.00",
+                    "Proportion": "0.04%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-1,464.0000",
+                    "Description": "Decu NKE.N NIKE INC SHS B (U.S. SECURITY) ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P130522027E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 12.05.2023",
+                    "Market Price Price Date Next Fixing Date": "-0.3744 26.08.2022",
+                    "Market Value in USD Accrued Interest": "548.17 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "548.17 548.17 0.00",
+                    "Proportion": "0.01%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-36,600.0000",
+                    "Description": "Decu NIO.N Nio Inc Shs -A- Sponsored",
+                    "ISIN No. Sec. No.": "NULL",
+                    "Purchase Price Value Date Maturity Date": "0.0000",
+                    "Market Price Price Date Next Fixing Date": "2.8326",
+                    "Market Value in USD Accrued Interest": "-103,674.59",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-103,674.59",
+                    "Proportion": "-1.69%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "NULL",
+                    "Quantity": "NULL",
+                    "Description": "American Depositary Share Repr 1 Sh -A ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P130522026E",
+                    "Purchase Price Value Date Maturity Date": "12.05.2023",
+                    "Market Price Price Date Next Fixing Date": "25.08.2022",
+                    "Market Value in USD Accrued Interest": "0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-103,674.59 0.00",
+                    "Proportion": "NULL",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Options Convertibles OTC Derivatives and Others",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity": "-965.0000",
+                    "Description": "Decu TSLA.OQ TESLA INC ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P230522009E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 22.05.2023",
+                    "Market Price Price Date Next Fixing Date": "147.2224 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-142,069.65 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-142,069.65 - -142,069.65 0.00",
+                    "Proportion": "-2.32%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-2,020.0000",
+                    "Description": "Decu META.OQ Meta Platforms Inc Registered Shs -A- ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P170622010E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 16.06.2023",
+                    "Market Price Price Date Next Fixing Date": "-3.6371 26.08.2022",
+                    "Market Value in USD Accrued Interest": "7,346.86 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "7,346.86 7,346.86 0.00",
+                    "Proportion": "0.12%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-8,080.0000",
+                    "Description": "Decu SHOP.N Shopify SVtg-A ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P170622012E.A",
+                    "Purchase Price Value Date Maturity Date": "0.0000 16.06.2023",
+                    "Market Price Price Date Next Fixing Date": "0.3512 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-2,837.45 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-2,837.45 -2,837.45 0.00",
+                    "Proportion": "-0.05%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-2,420.0000",
+                    "Description": "Decu RBLX.N Roblox Corporation Registered Shs -A- ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P060722022E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 05.07.2023",
+                    "Market Price Price Date Next Fixing Date": "-1.1154 26.08.2022",
+                    "Market Value in USD Accrued Interest": "2,699.24 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "2,699.24 2,699.24 0.00",
+                    "Proportion": "0.04%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "USD",
+                    "Quantity": "-2,400.0000",
+                    "Description": "Decu AMD.OQ ADVANCED MICRO DEVICES INC (U.S. SECURITY) ST: USD 122.2371 KO: USD 81.2175 Lvg: 2x Gtd: 4 periods, ED: 01.08.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "P020822019E",
+                    "Purchase Price Value Date Maturity Date": "0.0000 01.08.2023",
+                    "Market Price Price Date Next Fixing Date": "0.3111 26.08.2022",
+                    "Market Value in USD Accrued Interest": "-746.74 0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-746.74 -746.74 0.00",
+                    "Proportion": "-0.01%",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "List of Holdings - Options Convertibles OTC Derivatives and Others",
+            "Data": [
+                {
+                    "CCY": "USD",
+                    "Quantity Description": "-3,000.0000 Decu SYF.N SYNCHRONY FINANCIAL",
+                    "ISIN No. Sec. No.": "NULL",
+                    "Purchase Price Value Date Maturity Date": "0.0000",
+                    "Market Price Price Date Next Fixing Date": "0.0990",
+                    "Market Value in USD Accrued Interest": "-296.99",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-296.99",
+                    "Proportion": "-0.00%",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "NULL",
+                    "Quantity Description": "(U.S. SECURITY)(RE CN) ST: USD",
+                    "ISIN No. Sec. No.": "P150822020E",
+                    "Purchase Price Value Date Maturity Date": "NULL",
+                    "Market Price Price Date Next Fixing Date": "26.08.2022",
+                    "Market Value in USD Accrued Interest": "0.00",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "-296.99",
+                    "Proportion": "NULL",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "NULL",
+                    "Quantity Description": "40.5709 KO: USD 31.9680 Lvg: 1x, ED:",
+                    "ISIN No. Sec. No.": "NULL",
+                    "Purchase Price Value Date Maturity Date": "14.08.2023",
+                    "Market Price Price Date Next Fixing Date": "NULL",
+                    "Market Value in USD Accrued Interest": "NULL",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "0.00",
+                    "Proportion": "NULL",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "CCY": "NULL",
+                    "Quantity Description": "14.08.2023, CCY: USD",
+                    "ISIN No. Sec. No.": "NULL",
+                    "Purchase Price Value Date Maturity Date": "NULL",
+                    "Market Price Price Date Next Fixing Date": "NULL",
+                    "Market Value in USD Accrued Interest": "NULL",
+                    "Unrealized G/L in USD Unrealized G/L in Pos CCY Unrealized G/L (%) (Ref. CCY)": "NULL",
+                    "Proportion": "NULL",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84232996",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,556.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Net_Amount": "6871.33",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "USD",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84233139",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -9,280.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Net_Amount": "9136.04",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9136.04",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-02",
+                    "Value_Date": "2022-08-01",
+                    "Transaction_Reference": "84209091",
+                    "Transaction_Type": "Dividend Cash: 1,568.00 JPMORGAN CHASE N CO (FORMERLY CHASE MANHATTAN CORPN)(U.S SECURITY)",
+                    "Net_Amount": "1097.60",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "1097.60",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84233160",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,320.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "10872.98",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "10872.98",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-01",
+                    "Value_Date": "2022-08-03",
+                    "Transaction_Reference": "84875419",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,065.00 HYBR Decu TSLA.OQ ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05",
+                    "Net_Amount": "40082.73",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "40082.73",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-01",
+                    "Value_Date": "2022-08-03",
+                    "Transaction_Reference": "84880042",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,340.00 HYBR Accu TSLA.OQ ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.",
+                    "Net_Amount": "-142026.16",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-142026.16",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-02",
+                    "Value_Date": "2022-08-04",
+                    "Transaction_Reference": "84940254",
+                    "Transaction_Type": "FX Settlement for: 2709445362",
+                    "Net_Amount": "100000.00",
+                    "Transaction_CCY": "EUR",
+                    "FX_Rate": "1.0174",
+                    "Account": "6507834.005",
+                    "Net_Amount_in_USD": "101744.98",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-02",
+                    "Value_Date": "2022-08-04",
+                    "Transaction_Reference": "84940859",
+                    "Transaction_Type": "FX Settlement for: 2709445362",
+                    "Net_Amount": "-111000.00",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-111000.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943616",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,436.00 HYBR Decu CRWD.OQ ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05",
+                    "Net_Amount": "12634.01",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "12634.01",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943668",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,158.00 HYBR Decu QCOM.OQ ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04",
+                    "Net_Amount": "9251.55",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9251.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943973",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,640.00 HYBR Decu RBLX.N ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED:05.07.2023, CCY: USD",
+                    "Net_Amount": "6484.50",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "6484.50",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84959762",
+                    "Transaction_Type": "Outgoing payment to TARAH KAMINI SANGHANI",
+                    "Net_Amount": "-500035.92",
+                    "Transaction_CCY": "GBP",
+                    "FX_Rate": "1.2140",
+                    "Account": "6507834.002",
+                    "Net_Amount_in_USD": "-607068.51",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84979053",
+                    "Transaction_Type": "FX spot: - -106,423.49 (GBP/USD 1.2141870)",
+                    "Net_Amount": "87650.00",
+                    "Transaction_CCY": "GBP",
+                    "FX_Rate": "1.2140",
+                    "Account": "6507834.002",
+                    "Net_Amount_in_USD": "106411.46",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84979053",
+                    "Transaction_Type": "FX spot: 87,650 (GBP/USD 1.2141870)",
+                    "Net_Amount": "-106423.49",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-106423.49",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-04",
+                    "Value_Date": "2022-08-08",
+                    "Transaction_Reference": "84985265",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,176.00 HYBR Accu SE.N ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.20",
+                    "Net_Amount": "-24031.20",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-24031.20",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013369",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,421.00 HYBR Decu JPM.N ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY:USD",
+                    "Net_Amount": "9298.50",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9298.50",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013386",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,421.00 HYBR Decu BA.N ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.20",
+                    "Net_Amount": "10678.48",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "10678.48",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013390",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -40,600.00 HYBR Decu NIO.N ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.202",
+                    "Net_Amount": "29712.60",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "29712.60",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013398",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,624.00 HYBR Decu NKE.N ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.20",
+                    "Net_Amount": "5170.31",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "5170.31",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-08",
+                    "Value_Date": "2022-08-10",
+                    "Transaction_Reference": "85127193",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 414.00 HYBR Accu ISRG.OQ ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10",
+                    "Net_Amount": "-18485.25",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-18485.25",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155029",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 948.00 HYBR Accu BA.N ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.20",
+                    "Net_Amount": "-23234.36",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-23234.36",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155060",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,370.00 HYBR Accu CRWD.OQ ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11",
+                    "Net_Amount": "-59780.10",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-59780.10",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155207",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,740.00 HYBR Accu SHOP.N ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Net_Amount": "-76064.10",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-76064.10",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155266",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 790.00 HYBR Accu META.OQ ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "-28815.55",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-28815.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85155872",
+                    "Transaction_Type": "Close loan: Fixed Short Term Loan USD, 1.4%, p.a. payable at maturity, 12.08.2021-12.08.2022 (794708) Close loan Principal: 1,600,000.00 Interest: 22,711.11",
+                    "Net_Amount": "-1622711.11",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-1622711.11",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-12",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85159451",
+                    "Transaction_Type": "Dividend Cash: 3,756.00 SYNCHRONY FINANCIAL (U.S. SECURITY)(RES CN)",
+                    "Net_Amount": "604.72",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "604.72",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85181036",
+                    "Transaction_Type": "FX Settlement for: 2715416369",
+                    "Net_Amount": "100000.00",
+                    "Transaction_CCY": "EUR",
+                    "FX_Rate": "1.0287",
+                    "Account": "6507834.005",
+                    "Net_Amount_in_USD": "102865.04",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85181725",
+                    "Transaction_Type": "FX Settlement for: 2715416369",
+                    "Net_Amount": "-111000.00",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-111000.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85191010",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,580.00 HYBR Accu QCOM.OQ ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11",
+                    "Net_Amount": "-28638.47",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-28638.47",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85191112",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,896.00 HYBR Accu AMD.OQ ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.",
+                    "Net_Amount": "-29247.96",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-29247.96",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253628",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,436.00 HYBR *KO* Decu SE. N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Net_Amount": "6871.33",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "6871.33",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253706",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,220.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "10872.98",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "10872.98",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253731",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -8,880.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Net_Amount": "9136.04",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9136.04",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85370627",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,015.00 HYBR Decu TSLA.OQ ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05",
+                    "Net_Amount": "40082.73",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "40082.73",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85375362",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,140.00 HYBR Accu TSLA.OQ ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.",
+                    "Net_Amount": "-83544.80",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-83544.80",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-16",
+                    "Value_Date": "2022-08-18",
+                    "Transaction_Reference": "85403730",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,500.00 HYBR Decu AMD.OQ ST: USD 122.2371 KO: USD 81.2175 Lvg: 2x Gtd: 4 periods, ED: 01.08.2",
+                    "Net_Amount": "6111.86",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "6111.86",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-16",
+                    "Value_Date": "2022-08-18",
+                    "Transaction_Reference": "85433571",
+                    "Transaction_Type": "FX Settlement for: 2722022020",
+                    "Net_Amount": "100000.00",
+                    "Transaction_CCY": "EUR",
+                    "FX_Rate": "1.0185",
+                    "Account": "6507834.005",
+                    "Net_Amount_in_USD": "101854.99",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-16",
+                    "Value_Date": "2022-08-18",
+                    "Transaction_Reference": "85434249",
+                    "Transaction_Type": "FX Settlement for: 2722022020",
+                    "Net_Amount": "-111000.00",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-111000.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436702",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,316.00 HYBR Decu CRWD.OQ ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05",
+                    "Net_Amount": "12634.01",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "12634.01",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436736",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,098.00 HYBR Decu QCOM.OQ ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04",
+                    "Net_Amount": "9251.55",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9251.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436740",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,530.00 HYBR Decu RBLX.N ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: :05.07.2023, CCY: USD",
+                    "Net_Amount": "6484.50",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "6484.50",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-01-28",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85466423",
+                    "Transaction_Type": "FX Settlement for: 2553069601",
+                    "Net_Amount": "384267.14",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "384267.14",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2021-08-02",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85466434",
+                    "Transaction_Type": "FX Settlement for: 2424169420",
+                    "Net_Amount": "287253.14",
+                    "Transaction_CCY": "GBP",
+                    "FX_Rate": "1.1913",
+                    "Account": "6507834.002",
+                    "Net_Amount_in_USD": "342218.94",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-01-28",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85467635",
+                    "Transaction_Type": "FX Settlement for: 2553069601",
+                    "Net_Amount": "-287253.14",
+                    "Transaction_CCY": "GBP",
+                    "FX_Rate": "1.1913",
+                    "Account": "6507834.002",
+                    "Net_Amount_in_USD": "-342218.94",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2021-08-02",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85467652",
+                    "Transaction_Type": "FX Settlement for: 2424169420",
+                    "Net_Amount": "-400000.00",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-400000.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-18",
+                    "Value_Date": "2022-08-22",
+                    "Transaction_Reference": "85476208",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,056.00 HYBR Accu SE. N ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.20",
+                    "Net_Amount": "-24031.20",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-24031.20",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504371",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,544.00 HYBR Decu NKE.N ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.20",
+                    "Net_Amount": "5170.31",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "5170.31",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504417",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,351.00 HYBR Decu JPM.N ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "9298.50",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9298.50",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504591",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,351.00 HYBR Decu BA.N ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.20",
+                    "Net_Amount": "10678.48",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "10678.48",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504595",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -38,600.00 HYBR Decu NIO.N ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.202",
+                    "Net_Amount": "35655.12",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "35655.12",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85617733",
+                    "Transaction_Type": "Close loan: Fixed Short Term Loan USD, 1.5%, p.a. payable at maturity, 25.08.2021-25.08.2022 (801890) Close loan Principal: 950,000.00 Interest: 14,447.92",
+                    "Net_Amount": "-964447.92",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-964447.92",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-22",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85619727",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,316.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Net_Amount": "3435.66",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "3435.66",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-22",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85619770",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 354.00 HYBR Accu ISRG.OQ ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10",
+                    "Net_Amount": "-18485.25",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-18485.25",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649052",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 828.00 HYBR Accu BA.N ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.20",
+                    "Net_Amount": "-23234.36",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-23234.36",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649074",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 690.00 HYBR Accu META.OQ ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "-28815.55",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-28815.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649253",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,070.00 HYBR Accu CRWD.OQ ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11",
+                    "Net_Amount": "-47824.08",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-47824.08",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649289",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,140.00 HYBR Accu SHOP.N ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Net_Amount": "-76064.10",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-76064.10",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85653661",
+                    "Transaction_Type": "16 Put NVIDIA (NVDA.US) 20-JAN-2023 American USD 125 (5.65 USD)",
+                    "Net_Amount": "8960.00",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "8960.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85671327",
+                    "Transaction_Type": "FX Settlement for: 2727219430",
+                    "Net_Amount": "100000.00",
+                    "Transaction_CCY": "EUR",
+                    "FX_Rate": "0.9992",
+                    "Account": "6507834.005",
+                    "Net_Amount_in_USD": "99919.98",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85672172",
+                    "Transaction_Type": "FX Settlement for: 2727219430",
+                    "Net_Amount": "-111000.00",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-111000.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-24",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85679840",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,656.00 HYBR Accu AMD.OQ ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.",
+                    "Net_Amount": "-29247.96",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-29247.96",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-24",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85679895",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,380.00 HYBR Accu QCOM.OQ ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11",
+                    "Net_Amount": "-25623.90",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "-25623.90",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743841",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,120.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "10872.98",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "10872.98",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Cash Transactions",
+            "Data": [
+                {
+                    "Transaction_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743973",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -8,480.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Net_Amount": "9136.04",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "9136.04",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Transaction_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743984",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,500.00 HYBR *KO* Decu NVDA.OQ ST: USD 246.1376 KO: USD 168.4080 Lvg: 2x, ED: 14.08.2023, CCY",
+                    "Net_Amount": "5907.30",
+                    "Transaction_CCY": "USD",
+                    "FX_Rate": "1.0000",
+                    "Account": "6507834.003",
+                    "Net_Amount_in_USD": "5907.30",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84232996",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,556.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US81141R1005",
+                    "Security_Description": "Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh",
+                    "Net_Amount": "6,871.33",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "6871.33",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84232996",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,556.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "*KO* Decu SE.N Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84233139",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -9,280.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "CA82509L1076",
+                    "Security_Description": "Shopify SVtg-A",
+                    "Net_Amount": "9,136.04",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9136.04",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84233139",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -9,280.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Quantity": "400.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu SHOP.N Shopify SVtg-A ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84233160",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,320.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Quantity": "-50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US30303M1027",
+                    "Security_Description": "Meta Platforms Inc Registered Shs -A-",
+                    "Net_Amount": "10,872.98",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "10872.98",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-07-29",
+                    "Value_Date": "2022-08-02",
+                    "Transaction_Reference": "84233160",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,320.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu META.OQ Meta Platforms Inc Registered Shs -A- ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-01",
+                    "Value_Date": "2022-08-03",
+                    "Transaction_Reference": "84875419",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,065.00 HYBR Decu TSLA.OQ ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05",
+                    "Quantity": "-50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US88160R1014",
+                    "Security_Description": "TESLA INC",
+                    "Net_Amount": "40,082.73",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "40082.73",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-01",
+                    "Value_Date": "2022-08-03",
+                    "Transaction_Reference": "84875419",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,065.00 HYBR Decu TSLA.OQ ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05",
+                    "Quantity": "50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu TSLA.OQ TESLA INC ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-02",
+                    "Value_Date": "2022-08-04",
+                    "Transaction_Reference": "84921456",
+                    "Transaction_Type": "USD",
+                    "Quantity": "-2,500.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu AMD.OQ ADVANCED MICRO DEVICES INC (U.S. SECURITY) ST: USD 122.2371 KO: USD 81.2175 Lvg: 2x Gtd: 4 periods, ED: 01.08.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-01",
+                    "Value_Date": "2022-08-03",
+                    "Transaction_Reference": "84880042",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,340.00 HYBR Accu TSLA.OQ ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.",
+                    "Quantity": "170.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US88160R1014",
+                    "Security_Description": "TESLA INC",
+                    "Net_Amount": "-142,026.16",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-142026.16",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-01",
+                    "Value_Date": "2022-08-03",
+                    "Transaction_Reference": "84880042",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,340.00 HYBR Accu TSLA.OQ ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu TSLA.OQ TESLA INC ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.01.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943616",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,436.00 HYBR Decu CRWD.OQ ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US22788C1053",
+                    "Security_Description": "CrowdStrike Holdings Inc Registered Shs -A-",
+                    "Net_Amount": "12,634.01",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "12634.01",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943616",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,436.00 HYBR Decu CRWD.OQ ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu CRWD.OQ CrowdStrike Holdings Inc Registered Shs -A- ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943668",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,158.00 HYBR Decu QCOM.OQ ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US7475251036",
+                    "Security_Description": "QUALCOMM INC (U.S. SECURITY) (CUST DB FFT)",
+                    "Net_Amount": "9,251.55",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9251.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943668",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,158.00 HYBR Decu QCOM.OQ ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04",
+                    "Quantity": "60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu QCOM.OQ QUALCOMM INC (U.S. SECURITY) (CUST DB FFT) ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943973",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,640.00 HYBR Decu RBLX.N ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "Quantity": "-110.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US7710491033",
+                    "Security_Description": "Roblox Corporation Registered Shs -A-",
+                    "Net_Amount": "6,484.50",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "6484.50",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-03",
+                    "Value_Date": "2022-08-05",
+                    "Transaction_Reference": "84943973",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,640.00 HYBR Decu RBLX.N ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "Quantity": "110.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu RBLX.N Roblox Corporation Registered Shs -A- ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-04",
+                    "Value_Date": "2022-08-08",
+                    "Transaction_Reference": "84985265",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,176.00 HYBR Accu SE.N ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.20",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US81141R1005",
+                    "Security_Description": "Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh",
+                    "Net_Amount": "-24,031.20",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-24031.20",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-04",
+                    "Value_Date": "2022-08-08",
+                    "Transaction_Reference": "84985265",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,176.00 HYBR Accu SE.N ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.20",
+                    "Quantity": "-120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu SE.N Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd:2 periods, ED:08.12.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013369",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,421.00 HYBR Decu JPM.N ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Quantity": "-70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US46625H1005",
+                    "Security_Description": "JPMORGAN CHASE N CO (FORMERLY CHASE MANHATTAN CORPN)(U.S SECURITY)",
+                    "Net_Amount": "9,298.50",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9298.50",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013369",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,421.00 HYBR Decu JPM.N ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Quantity": "70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu JPM.N JPMORGAN CHASE N CO (FORMERLY CHASE MANHATTAN CORPN)(U.S SECURITY) ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013386",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,421.00 HYBR Decu BA.N ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.20",
+                    "Quantity": "-70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0970231058",
+                    "Security_Description": "BOEING COMPANY (U.S. SECURITY)",
+                    "Net_Amount": "10,678.48",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "10678.48",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013386",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,421.00 HYBR Decu BA.N ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.20",
+                    "Quantity": "70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu BA.N BOEING COMPANY (U.S. SECURITY) ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013390",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -40,600.00 HYBR Decu NIO.N ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.202",
+                    "Quantity": "-1,500.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US62914V1061",
+                    "Security_Description": "Nio Inc Shs -A- Sponsored American Depositary Share Repr 1 Sh -A",
+                    "Net_Amount": "29,712.60",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "29712.60",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013390",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -40,600.00 HYBR Decu NIO.N ST:USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.202",
+                    "Quantity": "2,000.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu NIO.N Nio Inc Shs -A- Sponsored American Depositary Share Repr 1 Sh -A ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013398",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,624.00 HYBR Decu NKE.N ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.20",
+                    "Quantity": "-40.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US6541061031",
+                    "Security_Description": "NIKE INC SHS B (U.S. SECURITY)",
+                    "Net_Amount": "5,170.31",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "5170.31",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-05",
+                    "Value_Date": "2022-08-09",
+                    "Transaction_Reference": "85013398",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,624.00 HYBR Decu NKE.N ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.20",
+                    "Quantity": "80.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu NKE. N NIKE INC SHS B (U.S. SECURITY) ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-08",
+                    "Value_Date": "2022-08-10",
+                    "Transaction_Reference": "85127193",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 414.00 HYBR Accu ISRG.OQ ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10",
+                    "Quantity": "60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US46120E6023",
+                    "Security_Description": "INTUITIVE SURGICAL INC (U.S. SECURITY)",
+                    "Net_Amount": "-18,485.25",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-18485.25",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-08",
+                    "Value_Date": "2022-08-10",
+                    "Transaction_Reference": "85127193",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 414.00 HYBR Accu ISRG.OQ ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu ISRG.OQ INTUITIVE SURGICAL INC (U.S. SECURITY) ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155029",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 948.00 HYBR Accu BA.N ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.20",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0970231058",
+                    "Security_Description": "BOEING COMPANY (U.S. SECURITY)",
+                    "Net_Amount": "-23,234.36",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-23234.36",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155029",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 948.00 HYBR Accu BA.N ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.20",
+                    "Quantity": "-120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu BA.N BOEING COMPANY (U.S. SECURITY) ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155060",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,370.00 HYBR Accu CRWD.OQ ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11",
+                    "Quantity": "300.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US22788C1053",
+                    "Security_Description": "CrowdStrike Holdings Inc Registered Shs -A-",
+                    "Net_Amount": "-59,780.10",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-59780.10",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155060",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,370.00 HYBR Accu CRWD.OQ ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11",
+                    "Quantity": "-300.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu CRWD.OQ CrowdStrike Holdings Inc Registered Shs -A- ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155207",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,740.00 HYBR Accu SHOP.N ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Quantity": "600.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "CA82509L1076",
+                    "Security_Description": "Shopify SVtg-A",
+                    "Net_Amount": "-76,064.10",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-76064.10",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155207",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,740.00 HYBR Accu SHOP.N ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Quantity": "-600.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu SHOP.N Shopify SVtg-A ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155266",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 790.00 HYBR Accu META.OQ ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US30303M1027",
+                    "Security_Description": "Meta Platforms Inc Registered Shs -A-",
+                    "Net_Amount": "-28,815.55",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-28815.55",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-09",
+                    "Value_Date": "2022-08-11",
+                    "Transaction_Reference": "85155266",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 790.00 HYBR Accu META.OQ ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Quantity": "-100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu META.OQ Meta Platforms Inc Registered Shs -A- ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85191010",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,580.00 HYBR Accu QCOM.OQ ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11",
+                    "Quantity": "190.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US7475251036",
+                    "Security_Description": "QUALCOMM INC (U.S. SECURITY) (CUST DB FFT)",
+                    "Net_Amount": "-28,638.47",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-28638.47",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85191010",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,580.00 HYBR Accu QCOM.OQ ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu QCOM.OC QUALCOMM INC (U.S. SECURITY) (CUST DB FFT) ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85191112",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,896.00 HYBR Accu AMD.OQ ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.",
+                    "Quantity": "240.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0079031078",
+                    "Security_Description": "ADVANCED MICRO DEVICES INC (U.S. SECURITY)",
+                    "Net_Amount": "-29,247.96",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-29247.96",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-10",
+                    "Value_Date": "2022-08-12",
+                    "Transaction_Reference": "85191112",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,896.00 HYBR Accu AMD.OQ ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.",
+                    "Quantity": "-240.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu AMD.OQ ADVANCED MICRO DEVICES INC (U.S. SECURITY) ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253628",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,436.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US81141R1005",
+                    "Security_Description": "Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh",
+                    "Net_Amount": "6,871.33",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "6871.33",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253628",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,436.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "*KO* Decu SE.N Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253706",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,220.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Quantity": "-50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US30303M1027",
+                    "Security_Description": "Meta Platforms Inc Registered Shs -A-",
+                    "Net_Amount": "10,872.98",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "10872.98",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253706",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,220.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu META.OQ Meta Platforms Inc Registered Shs -A- ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253731",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -8,880.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "CA82509L1076",
+                    "Security_Description": "Shopify SVtg-A",
+                    "Net_Amount": "9,136.04",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9136.04",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-12",
+                    "Value_Date": "2022-08-16",
+                    "Transaction_Reference": "85253731",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -8,880.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Quantity": "400.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu SHOP.N Shopify SVtg-A ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85370627",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,015.00 HYBR Decu TSLA.OQ ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05",
+                    "Quantity": "-50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US88160R1014",
+                    "Security_Description": "TESLA INC",
+                    "Net_Amount": "40,082.73",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "40082.73",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85370627",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,015.00 HYBR Decu TSLA.OQ ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05",
+                    "Quantity": "50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu TSLA.OQ TESLA INC ST: USD 801.6545 KO: USD 556.7500 Lvg: 1x Gtd: 6 periods, ED: 22.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85375362",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,140.00 HYBR Accu TSLA.OQ ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US88160R1014",
+                    "Security_Description": "TESLA INC",
+                    "Net_Amount": "-83,544.80",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-83544.80",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85375362",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,140.00 HYBR Accu TSLA.OQ ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED:03.",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu TSLA.OQ TESLA INC ST: USD 835.4480 KO: USD 1,205.9670 Lvg: 2x Gtd: 2 periods, ED: 03.01.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85382765",
+                    "Transaction_Type": "USD",
+                    "Quantity": "-3,000.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu SYF.N SYNCHRONY FINANCIAL (U.S. SECURITY) (RES CN) ST: USD 40.5709 KO: USD 31.9680 Lvg: 1x, ED: 14.08.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-15",
+                    "Value_Date": "2022-08-17",
+                    "Transaction_Reference": "85382797",
+                    "Transaction_Type": "USD",
+                    "Quantity": "-1,500.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "*KO* Decu NVDA.OQ NVIDIA CORP (U.S. SECURITY) ST: USD 246.1376 KO: USD 168.4080 Lvg: 2x, ED: 14.08.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-16",
+                    "Value_Date": "2022-08-18",
+                    "Transaction_Reference": "85403730",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,500.00 HYBR Decu AMD.OQ ST: USD 122.2371 KO: USD 81.2175 Lvg: 2x Gtd: 4 periods, ED: 01.08.2",
+                    "Quantity": "-50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0079031078",
+                    "Security_Description": "ADVANCED MICRO DEVICES INC (U.S. SECURITY)",
+                    "Net_Amount": "6,111.86",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "6111.86",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-16",
+                    "Value_Date": "2022-08-18",
+                    "Transaction_Reference": "85403730",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,500.00 HYBR Decu AMD.OQ ST: USD 122.2371 KO: USD 81.2175 Lvg: 2x Gtd: 4 periods, ED: 01.08.2",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu AMD.OQ ADVANCED MICRO DEVICES INC (U.S. SECURITY) ST: USD 122.2371 KO: USD 81.2175 Lvg: 2x Gtd: 4 periods, ED: 01.08.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436702",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,316.00 HYBR Decu CRWD.OQ ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US22788C1053",
+                    "Security_Description": "CrowdStrike Holdings Inc Registered Shs -A-",
+                    "Net_Amount": "12,634.01",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "12634.01",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436702",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,316.00 HYBR Decu CRWD.OQ ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu CRWD.OQ CrowdStrike Holdings Inc Registered Shs -A- ST: USD 210.5668 KO: USD 126.6500 Lvg: 2x Gtd: 2 periods, ED: 10.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436736",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,098.00 HYBR Decu QCOM.OQ ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US7475251036",
+                    "Security_Description": "QUALCOMM INC (U.S. SECURITY) (CUST DB FFT)",
+                    "Net_Amount": "9,251.55",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9251.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436736",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,098.00 HYBR Decu QCOM.OQ ST: USD 154.1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04",
+                    "Quantity": "60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu QCOM.OQ QUALCOMM INC (U.S. SECURITY) (CUST DB FFT) ST: USD 154. .1925 KO: USD 113.4750 Lvg: 1x Gtd: 2 periods, ED: 26.04.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436740",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,530.00 HYBR Decu RBLX.N ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "Quantity": "-110.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US7710491033",
+                    "Security_Description": "Roblox Corporation Registered Shs -A-",
+                    "Net_Amount": "6,484.50",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "6484.50",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-17",
+                    "Value_Date": "2022-08-19",
+                    "Transaction_Reference": "85436740",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,530.00 HYBR Decu RBLX.N ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "Quantity": "110.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu RBLX.N Roblox Corporation Registered Shs -A- ST: USD 58.9500 KO: USD 35.3700 Lvg: 1x, ED: 05.07.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-18",
+                    "Value_Date": "2022-08-22",
+                    "Transaction_Reference": "85476208",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,056.00 HYBR Accu SE.N ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.20",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US81141R1005",
+                    "Security_Description": "Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh",
+                    "Net_Amount": "-24,031.20",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-24031.20",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-18",
+                    "Value_Date": "2022-08-22",
+                    "Transaction_Reference": "85476208",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,056.00 HYBR Accu SE.N ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.20",
+                    "Quantity": "-120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu SE.N Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh ST: USD 200.2600 KO: USD 289.8500 Lvg: 2x Gtd: 2 periods, ED: 08.12.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504371",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,544.00 HYBR Decu NKE.N ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.20",
+                    "Quantity": "-40.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US6541061031",
+                    "Security_Description": "NIKE INC SHS B (U.S. SECURITY)",
+                    "Net_Amount": "5,170.31",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "5170.31",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504371",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,544.00 HYBR Decu NKE.N ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.20",
+                    "Quantity": "80.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu NKE.N NIKE INC SHS B (U.S. SECURITY) ST: USD 129.2578 KO: USD 93.7210 Lvg: 2x Gtd: 6 periods, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504417",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,351.00 HYBR Decu JPM.N ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Quantity": "-70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US46625H1005",
+                    "Security_Description": "JPMORGAN CHASE N CO (FORMERLY CHASE MANHATTAN CORPN)(U.S SECURITY)",
+                    "Net_Amount": "9,298.50",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9298.50",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504417",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,351.00 HYBR Decu JPM.N ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Quantity": "70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu JPM.N JPMORGAN CHASE N CO (FORMERLY CHASE MANHATTAN CORPN)(U.S SECURITY) ST: USD 132.8357 KO: USD 107.4240 Lvg: 1x, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504591",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,351.00 HYBR Decu BA.N ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.20",
+                    "Quantity": "-70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0970231058",
+                    "Security_Description": "BOEING COMPANY (U.S. SECURITY)",
+                    "Net_Amount": "10,678.48",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "10678.48",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504591",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,351.00 HYBR Decu BANN ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.20",
+                    "Quantity": "70.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu BA.N BOEING COMPANY (U.S. SECURITY) ST: USD 152.5497 KO: USD 112.5090 Lvg: 1x Gtd: 2 periods, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504595",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -38,600.00 HYBR Decu NIO.N ST:USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.202",
+                    "Quantity": "-1,800.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US62914V1061",
+                    "Security_Description": "Nio Inc Shs -A- Sponsored American Depositary Share Repr 1 Sh -A",
+                    "Net_Amount": "35,655.12",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "35655.12",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-19",
+                    "Value_Date": "2022-08-23",
+                    "Transaction_Reference": "85504595",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -38,600.00 HYBR Decu NIO.N ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.202",
+                    "Quantity": "2,000.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu NIO.N Nio Inc Shs -A- Sponsored American Depositary Share Repr 1 Sh -A ST: USD 19.8084 KO: USD 11.6110 Lvg: 2x Gtd: 6 periods, ED: 12.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-22",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85619727",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,316.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Quantity": "-30.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US81141R1005",
+                    "Security_Description": "Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh",
+                    "Net_Amount": "3,435.66",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "3435.66",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-22",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85619770",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 354.00 HYBR Accu ISRG.OQ ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10",
+                    "Quantity": "60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US46120E6023",
+                    "Security_Description": "INTUITIVE SURGICAL INC (U.S. SECURITY)",
+                    "Net_Amount": "-18,485.25",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-18485.25",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-22",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85619770",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 354.00 HYBR Accu ISRG.OQ ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10",
+                    "Quantity": "-60.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu ISRG.OQ INTUITIVE SURGICAL INC (U.S. SECURITY) ST: USD 308.0875 KO: USD 379.7745 Lvg: 2x Gtd: 2 periods, ED: 31.10.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-22",
+                    "Value_Date": "2022-08-22",
+                    "Transaction_Reference": "85625302",
+                    "Transaction_Type": "Expiration Old Security: -2,316.00 HYBR *KO* Decu SE.N ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.0",
+                    "Quantity": "2,316.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "*KO* Decu SE.N Sea Ltd Shs -A- Sponsored American Deposit Receipt Repr 1 Sh ST: USD 114.5221 KO: USD 66.6145 Lvg: 2x Gtd: 4 periods, ED: 19.05.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649052",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 828.00 HYBR Accu BA.N ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.20",
+                    "Quantity": "120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0970231058",
+                    "Security_Description": "BOEING COMPANY (U.S. SECURITY)",
+                    "Net_Amount": "-23,234.36",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-23234.36",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649052",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 828.00 HYBR Accu BANN ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.20",
+                    "Quantity": "-120.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu BA.N BOEING COMPANY (U.S. SECURITY) ST: USD 193.6197 KO: USD 256.2340 Lvg: 2x Gtd: 2 periods, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649074",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 690.00 HYBR Accu META.OQ ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US30303M1027",
+                    "Security_Description": "Meta Platforms Inc Registered Shs -A-",
+                    "Net_Amount": "-28,815.55",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-28815.55",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649074",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 690.00 HYBR Accu META.OQ ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Quantity": "-100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu META.OC Meta Platforms Inc Registered Shs -A- ST: USD 288.1555 KO: USD 378.2020 Lvg: 2x, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649253",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,070.00 HYBR Accu CRWD.OQ ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11",
+                    "Quantity": "240.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US22788C1053",
+                    "Security_Description": "CrowdStrike Holdings Inc Registered Shs -A-",
+                    "Net_Amount": "-47,824.08",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-47824.08",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649253",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 2,070.00 HYBR Accu CRWD.OQ ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11",
+                    "Quantity": "-300.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu CRWD.OQ CrowdStrike Holdings Inc Registered Shs -A- ST: USD 199.2670 KO: USD 281.2700 Lvg: 2x Gtd: 2 periods, ED: 15.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-24",
+                    "Transaction_Reference": "85653661",
+                    "Transaction_Type": "5.65 USD",
+                    "Quantity": "-16.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Put NVIDIA (NVDA.US) 20-JAN-2023 American USD 125",
+                    "Net_Amount": "8,960.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "8960.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649289",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,140.00 HYBR Accu SHOP.N ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Quantity": "600.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "CA82509L1076",
+                    "Security_Description": "Shopify SVtg-A",
+                    "Net_Amount": "-76,064.10",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-76064.10",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-23",
+                    "Value_Date": "2022-08-25",
+                    "Transaction_Reference": "85649289",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,140.00 HYBR Accu SHOP.N ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Quantity": "-600.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu SHOP.N Shopify SVtg-A ST: USD 126.7735 KO: USD 171.0214 Lvg: 2x, ED: 06.09.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-24",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85679840",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,656.00 HYBR Accu AMD.OQ ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.",
+                    "Quantity": "240.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US0079031078",
+                    "Security_Description": "ADVANCED MICRO DEVICES INC (U.S. SECURITY)",
+                    "Net_Amount": "-29,247.96",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-29247.96",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-24",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85679840",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,656.00 HYBR Accu AMD.OQ ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.",
+                    "Quantity": "-240.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu AMD.OQ ADVANCED MICRO DEVICES INC (U.S. SECURITY) ST: USD 121.8665 KO: USD 167.4200 Lvg: 2x Gtd: 4 periods, ED: 16.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-24",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85679895",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,380.00 HYBR Accu QCOM.OQ ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11",
+                    "Quantity": "170.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US7475251036",
+                    "Security_Description": "QUALCOMM INC (U.S. SECURITY) (CUST DB FFT)",
+                    "Net_Amount": "-25,623.90",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "-25623.90",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-24",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85679895",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: 1,380.00 HYBR Accu QCOM.OQ ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Accu QCOM.OQ QUALCOMM INC (U.S. SECURITY) (CUST DB FFT) ST: USD 150.7288 KO: USD 198.6600 Lvg: 2x Gtd: 4 periods, ED: 16.11.2022, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-29",
+                    "Transaction_Reference": "85696048",
+                    "Transaction_Type": "Split: 472.00 TESLA INC",
+                    "Quantity": "-472.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US88160R1014",
+                    "Security_Description": "TESLA INC",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743841",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,120.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Quantity": "-50.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US30303M1027",
+                    "Security_Description": "Meta Platforms Inc Registered Shs -A-",
+                    "Net_Amount": "10,872.98",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "10872.98",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743841",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -2,120.00 HYBR Decu META.OQ ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Quantity": "100.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu META.OC Meta Platforms Inc Registered Shs -A- ST: USD 217.4596 KO: USD 145.5120 Lvg: 2x, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        },
+        {
+            "Table Name": "Security Transactions",
+            "Data": [
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-26",
+                    "Transaction_Reference": "85832563",
+                    "Transaction_Type": "Expiration Old Security: - -1,500.00 HYBR *KO* Decu NVDA.OQ ST: USD 246.1376 KO: USD 168.4080 Lvg: 2x, ED: 14.08.2023, CCY",
+                    "Quantity": "1,500.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "*KO* Decu NVDA.OQ NVIDIA CORP (U.S. SECURITY) ST: USD 246.1376 KO: USD 168.4080 Lvg: 2x, ED: 14.08.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743973",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -8,480.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Quantity": "-200.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "CA82509L1076",
+                    "Security_Description": "Shopify SVtg-A",
+                    "Net_Amount": "9,136.04",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "9136.04",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743973",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -8,480.00 HYBR Decu SHOP.N ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.20",
+                    "Quantity": "400.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "",
+                    "Security_Description": "Decu SHOP.N Shopify SVtg-A ST: USD 45.6802 KO: USD 26.0644 Lvg: 2x Gtd: 4 periods, ED: 16.06.2023, CCY: USD",
+                    "Net_Amount": "0.00",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "0.00",
+                    "Portfolio Number": "6507834.01"
+                },
+                {
+                    "Trade_Date": "2022-08-26",
+                    "Value_Date": "2022-08-30",
+                    "Transaction_Reference": "85743984",
+                    "Transaction_Type": "Structured Product Equity Accumulator Delivery: -1,500.00 HYBR *KO* Decu NVDA.OQ ST: USD 246.1376 KO: USD 168.4080 Lvg: 2x, ED: 14.08.2023, CCY",
+                    "Quantity": "-24.00",
+                    "Transaction_CCY": "USD",
+                    "ISIN": "US67066G1040",
+                    "Security_Description": "NVIDIA CORP (U.S. SECURITY)",
+                    "Net_Amount": "5,907.30",
+                    "FX_Rate": "1.0000",
+                    "Net_Amount_in_USD": "5907.30",
+                    "Portfolio Number": "6507834.01"
+                }
+            ]
+        }]
